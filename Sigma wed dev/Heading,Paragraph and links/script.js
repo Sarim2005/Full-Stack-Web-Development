@@ -1,1 +1,0 @@
-alert("This is our first bookmark website")
